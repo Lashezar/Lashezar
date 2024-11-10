@@ -1,6 +1,4 @@
-Certainly! Here’s a personable, yet professional “About Me” for you:
 
----
 
 I’m a passionate data analyst with a knack for transforming complex data into meaningful insights that drive impactful decisions. With a strong command of Microsoft Power BI, Python, and SQL, I enjoy diving deep into data to uncover trends, solve problems, and bring clarity to the bigger picture.
 
