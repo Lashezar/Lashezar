@@ -13,7 +13,10 @@ I’m a big believer in the power of data to fuel growth and innovation, and I l
 Professional Skills
 ---
 
-. Microsoft
+* Microsoft Office 365
+    * Microsoft Word
+    * Microsoft PowerBi
+    * Microsoft Excel
 
 <!---
 Lashezar/Lashezar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
