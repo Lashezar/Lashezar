@@ -18,6 +18,13 @@ Professional Skills
     * Microsoft PowerBi
     * Microsoft Excel
 
+* Enterprise Resource Planning Software (ERP)
+
+* Freshworks CRM
+
+* Wordpress website Management System
+* 
+
 <!---
 Lashezar/Lashezar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
