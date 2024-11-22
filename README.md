@@ -30,6 +30,12 @@ Professional Skills
 
 * Customer Relationship Management (CRM)
 
+Education
+---
+Bachelor of Science in Finance
+Ekiti State University, Ado-Ekiti [Nigeria]
+🎓 Graduated: June 2019
+
 <!---
 Lashezar/Lashezar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
