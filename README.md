@@ -10,6 +10,9 @@ Throughout my career, I’ve built a reputation for delivering data solutions th
 
 I’m a big believer in the power of data to fuel growth and innovation, and I love collaborating with teams to make data-driven strategies come to life. When I’m not analyzing data, you’ll probably find me staying up-to-date with the latest industry trends, continuously learning, and refining my skills to make an even greater impact.
 
+Professional Skills
+---
+
 <!---
 Lashezar/Lashezar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
