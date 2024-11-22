@@ -36,7 +36,12 @@ Bachelor of Science in Finance
 
 Ekiti State University, Ado-Ekiti [Nigeria]
 
-🎓 Graduated: June 2019
+🎓 Graduated: June 2015
+
+Contact Me
+---
+Open to learning new skills in industies that my gedree and skills are applicable to such as Banking, Finance, Data analytics and Data science. Feel free to reach out to me via [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](http://linkedin.com/in/omolola-eyiowuawi-3aab16177)
+
 
 <!---
 Lashezar/Lashezar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
