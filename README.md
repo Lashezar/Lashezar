@@ -13,17 +13,22 @@ I’m a big believer in the power of data to fuel growth and innovation, and I l
 Professional Skills
 ---
 
-* Microsoft Office 365
-    * Microsoft Word
-    * Microsoft PowerBi
-    * Microsoft Excel
+* Data Analytics
+    * SQL
+    * PowerBi
+    * Excel
+
+* Data Visualization
 
 * Enterprise Resource Planning Software (ERP)
 
 * Freshworks CRM
 
 * Wordpress website Management System
-* 
+
+* E-commerce Platform (WooCommerce)
+
+* Customer Relationship Management (CRM)
 
 <!---
 Lashezar/Lashezar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
