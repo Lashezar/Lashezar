@@ -40,7 +40,7 @@ Ekiti State University, Ado-Ekiti [Nigeria]
 
 Contact Me
 ---
-Open to learning new skills in industies that my gedree and skills are applicable to such as Banking, Finance, Data analytics and Data science. Feel free to reach out to me via [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](http://linkedin.com/in/omolola-eyiowuawi-3aab16177) or [![Email](https://img.shields.io/badge/Email-tosec2010@gmail.com-blue?style=flat&logo=gmail&logoColor=white)](mailto:tosec2010@gmail.com)
+Open to learning new skills in industies that my degree and skills are applicable to such as Banking, Finance, Data analytics and Data science. Feel free to reach out to me via [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](http://linkedin.com/in/omolola-eyiowuawi-3aab16177) or [![Email](https://img.shields.io/badge/Email-tosec2010@gmail.com-blue?style=flat&logo=gmail&logoColor=white)](mailto:tosec2010@gmail.com)
 
 ---
 Thank you for visiting my profile! I look forward to working together and achieving goals.
