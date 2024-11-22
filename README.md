@@ -33,7 +33,9 @@ Professional Skills
 Education
 ---
 Bachelor of Science in Finance
+
 Ekiti State University, Ado-Ekiti [Nigeria]
+
 🎓 Graduated: June 2019
 
 <!---
