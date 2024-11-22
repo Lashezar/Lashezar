@@ -13,6 +13,8 @@ I’m a big believer in the power of data to fuel growth and innovation, and I l
 Professional Skills
 ---
 
+. Microsoft
+
 <!---
 Lashezar/Lashezar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
